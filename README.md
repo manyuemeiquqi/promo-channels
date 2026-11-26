@@ -17,8 +17,7 @@
 | 清单 | 适用 | 内容 |
 |---|---|---|
 | [DeepSeek Harness 插件生态](channels/dsh-plugin.md) | DSH 插件 | 19 个目录与列表，逐个写了收录方式和门槛 |
-| 中文技术社区 | 通用 | 待补充 |
-| 英文社区 | 通用 | 待补充 |
+| [通用 GitHub 仓库推广](channels/general.md) | 任意开源项目 | HelloGitHub、Show HN、掘金、Product Hunt 等，标明哪些能用哪些用不了 |
 
 ## 几条通用规律
 
