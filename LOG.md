@@ -15,15 +15,17 @@ DeepSeek Harness 的 GTA VI 主题插件 · https://github.com/manyuemeiquqi/dsh
 | 2026-11-26 | `awesome-dsh-plugin/awesome-dsh-plugin` | PR（一个 YAML） | [#19009](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/19009) | open |
 | 2026-11-26 | `0xsline/awesome-deepseek-harness` | PR（中英各一行） | [#885](https://github.com/0xsline/awesome-deepseek-harness/pull/885) | open |
 | 2026-11-26 | `beancookie/awesome-dsh-plugin` | PR（中英各一行） | [#316](https://github.com/beancookie/awesome-dsh-plugin/pull/316) | open |
+| 2026-11-26 | `kejixiaoliang/awesome-dsh-plugins` | PR（分类文件一行） | [#237](https://github.com/kejixiaoliang/awesome-dsh-plugins/pull/237) | open |
+| 2026-11-26 | `Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins` | PR（中英表格各一行） | [#129](https://github.com/Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins/pull/129) | open |
 | 2026-11-25 | 阮一峰《科技爱好者周刊》 | Issue 投稿 | [#13768](https://github.com/ruanyf/weekly/issues/13768) | open |
 
 ### 未投
 
 | 渠道 | 原因 |
 |---|---|
-| `bruc3van/awesome-dsh-plugin-pro` | 要求 star > 10，当前 1 |
-| `Dominic789654/awesome-deepseek-harness` | 格式已确认，待投 |
-| `Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins` | 表格按 star 排序，投了也沉底 |
+| `bruc3van/awesome-dsh-plugin-pro` | 要求 star > 10，当前 1，CI 自动核验 |
+| `Alex-Yanggg/awesome-DSH-plugin` | 需要跑仓库自带的 `scripts/generate_readmes.py` 重算中文镜像，本地执行外部脚本被沙箱拦下 |
+| `Dominic789654/awesome-deepseek-harness` | 投稿方式是改 2MB 的 README，且按 star 排序新项目会沉底，性价比低 |
 | Reddit / X / V2EX / 知乎 / 小红书 | 需要本人账号，稿件已备 |
 
 ### 备注
