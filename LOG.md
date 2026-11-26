@@ -17,6 +17,9 @@ DeepSeek Harness 的 GTA VI 主题插件 · https://github.com/manyuemeiquqi/dsh
 | 2026-11-26 | `beancookie/awesome-dsh-plugin` | PR（中英各一行） | [#316](https://github.com/beancookie/awesome-dsh-plugin/pull/316) | open |
 | 2026-11-26 | `kejixiaoliang/awesome-dsh-plugins` | PR（分类文件一行） | [#237](https://github.com/kejixiaoliang/awesome-dsh-plugins/pull/237) | open |
 | 2026-11-26 | `Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins` | PR（中英表格各一行） | [#129](https://github.com/Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins/pull/129) | open |
+| 2026-11-26 | `billLiao/awesome-dsh-plugin` | PR（分类文件一行） | [#41](https://github.com/billLiao/awesome-dsh-plugin/pull/41) | open |
+| 2026-11-26 | `walkinglabs/awesome-deepseek-harness-plugins` | PR（README 一行） | [#168](https://github.com/walkinglabs/awesome-deepseek-harness-plugins/pull/168) | open |
+| 2026-11-26 | HelloGitHub | Issue 自荐表单 | [#4533](https://github.com/521xueweihan/HelloGitHub/issues/4533) | open |
 | 2026-11-25 | 阮一峰《科技爱好者周刊》 | Issue 投稿 | [#13768](https://github.com/ruanyf/weekly/issues/13768) | open |
 
 ### 未投
