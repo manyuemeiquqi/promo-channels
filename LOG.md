@@ -24,7 +24,7 @@ DeepSeek Harness 的 GTA VI 主题插件 · https://github.com/manyuemeiquqi/dsh
 | 渠道 | 原因 |
 |---|---|
 | `bruc3van/awesome-dsh-plugin-pro` | 要求 star > 10，当前 1，CI 自动核验 |
-| `Alex-Yanggg/awesome-DSH-plugin` | 需要跑仓库自带的 `scripts/generate_readmes.py` 重算中文镜像，本地执行外部脚本被沙箱拦下 |
+| `Alex-Yanggg/awesome-DSH-plugin` | 104 star，但 2026-08-13 建仓、08-15 后停止更新，三个月无提交，不作为投放目标 |
 | `Dominic789654/awesome-deepseek-harness` | 投稿方式是改 2MB 的 README，且按 star 排序新项目会沉底，性价比低 |
 | Reddit / X / V2EX / 知乎 / 小红书 | 需要本人账号，稿件已备 |
 
